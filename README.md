@@ -63,8 +63,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd morse-code
-  git clone https://github.com/Jaymelfah/morse-code.git
+  cd enumerable
+  git clone https://github.com/kaizipaul/enumerable
 ```
 
 ### Install
