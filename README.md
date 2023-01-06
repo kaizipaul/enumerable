@@ -99,6 +99,8 @@ Example command:
 👤 **Samuel Lekpor**
 
 - GitHub: [@Samuellekpor](https://github.com/Samuellekpor)
+- Twitter: [@twitterhandle](https://twitter.com/samuel_lekpor)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sammuel-lekpor)
 
 👤 **Michael Oguntayo**
 
